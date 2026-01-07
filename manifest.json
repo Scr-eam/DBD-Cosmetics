@@ -3,8 +3,10 @@
         "COMMIT_EDITMSG",
         "config",
         "description",
+        "FETCH_HEAD",
         "HEAD",
         "index",
+        "ORIG_HEAD",
         "packed-refs"
     ],
     "Ace": [
@@ -5063,6 +5065,20 @@
         "K41_W02.png",
         "K41_W02_01.png"
     ],
+    "K42": [
+        "K42_Body006.png",
+        "K42_Body01.png",
+        "K42_Body01_P01.png",
+        "K42_Head006.png",
+        "K42_Head01.png",
+        "K42_Head01_P01.png",
+        "K42_outfit_006.png",
+        "K42_outfit_01.png",
+        "K42_outfit_01_P01.png",
+        "K42_W006.png",
+        "K42_W01.png",
+        "K42_W01_P01.png"
+    ],
     "Kate": [
         "GS_Head006.png",
         "GS_Head007.png",
@@ -5867,6 +5883,7 @@
         "QF_Head009.png",
         "QF_Head01.png",
         "QF_Head010.png",
+        "QF_Head011.png",
         "QF_Head01_P01.png",
         "QF_Head02.png",
         "QF_Legs006.png",
@@ -5874,6 +5891,7 @@
         "QF_Legs009.png",
         "QF_Legs01.png",
         "QF_Legs010.png",
+        "QF_Legs011.png",
         "QF_Legs01_P01.png",
         "QF_Legs02.png",
         "QF_outfit_006.png",
@@ -5881,6 +5899,7 @@
         "QF_outfit_009.png",
         "QF_outfit_01.png",
         "QF_outfit_010.png",
+        "QF_outfit_011.png",
         "QF_outfit_01_P01.png",
         "QF_outfit_02.png",
         "QF_Torso006.png",
@@ -5889,6 +5908,7 @@
         "QF_Torso009.png",
         "QF_Torso01.png",
         "QF_Torso010.png",
+        "QF_Torso011.png",
         "QF_Torso01_01.png",
         "QF_Torso01_P01.png",
         "QF_Torso02.png"
@@ -9051,6 +9071,39 @@
         "S49_Torso01_P01.png",
         "S49_Torso02.png",
         "S49_Torso02_01.png"
+    ],
+    "S50": [
+        "S50_Head006.png",
+        "S50_Head007.png",
+        "S50_Head01.png",
+        "S50_Head01_P01.png",
+        "S50_Legs006.png",
+        "S50_Legs007.png",
+        "S50_Legs01.png",
+        "S50_Legs01_P01.png",
+        "S50_outfit_006.png",
+        "S50_outfit_007.png",
+        "S50_outfit_01.png",
+        "S50_outfit_01_P01.png",
+        "S50_Torso006.png",
+        "S50_Torso007.png",
+        "S50_Torso01.png",
+        "S50_Torso01_P01.png",
+        "S50_Torso02.png"
+    ],
+    "S51": [
+        "S51_Head006.png",
+        "S51_Head01.png",
+        "S51_Head01_P01.png",
+        "S51_Legs006.png",
+        "S51_Legs01.png",
+        "S51_Legs01_P01.png",
+        "S51_outfit_006.png",
+        "S51_outfit_01.png",
+        "S51_outfit_01_P01.png",
+        "S51_Torso006.png",
+        "S51_Torso01.png",
+        "S51_Torso01_P01.png"
     ],
     "Saturn": [
         "K31_Body01.png",
